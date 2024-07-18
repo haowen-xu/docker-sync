@@ -2,7 +2,7 @@ redis:7.2.5
 caddy:2.7.6
 certbot/dns-cloudflare:latest
 clickhouse/clickhouse-server:23.4.2
-gitlab/gitlab-ce:17.1.1-ce.0
+gitlab/gitlab-ce:17.1.2-ce.0
 hello-world:latest
 mongo:4.0
 mongo:7.0
