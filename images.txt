@@ -1,2 +1,4 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
+osixia/openldap:1.5.0
+debian:10.13
