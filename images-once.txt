@@ -18,3 +18,5 @@ testcontainers/ryuk:0.7.0
 timescale/timescaledb:2.13.0-pg14
 ubuntu:20.04
 ubuntu:22.04
+osixia/openldap:1.5.0
+debian:10.13
