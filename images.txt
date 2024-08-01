@@ -1,3 +1,2 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
-ldapaccountmanager/lam:7.2.RC1
