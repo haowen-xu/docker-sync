@@ -1,4 +1,2 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
-nginx:1.27.0
-tiredofit/self-service-password:php7.4-5.3.3
