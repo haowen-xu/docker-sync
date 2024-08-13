@@ -1,3 +1,2 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
-joxit/docker-registry-ui:main
