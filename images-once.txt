@@ -25,3 +25,4 @@ nginx:1.27.0
 tiredofit/self-service-password:php7.4-5.3.3
 gitlab/gitlab-ce:17.1.4-ce.0
 joxit/docker-registry-ui:main
+alpine/k8s:1.27.16
