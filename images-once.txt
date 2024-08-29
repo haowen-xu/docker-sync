@@ -27,3 +27,4 @@ gitlab/gitlab-ce:17.1.4-ce.0
 joxit/docker-registry-ui:main
 alpine/k8s:1.27.16
 gitlab/gitlab-runner:ubuntu-v17.1.1
+nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
