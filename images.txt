@@ -1,2 +1,3 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
+nvidia/cuda:12.1.1-cudnn8-runtime-ubuntu22.04
