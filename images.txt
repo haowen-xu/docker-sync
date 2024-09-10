@@ -1,4 +1,2 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
-
-ghcr.io/coder/coder:latest
