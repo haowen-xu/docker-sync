@@ -1,4 +1,2 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
-
-stilleshan/frps:0.60.0
