@@ -1,3 +1,4 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
 apache/rocketmq:5.3.1
+apache/kafka:3.8.1
