@@ -1,2 +1,3 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
+golang:1.23.3-alpine3.20
