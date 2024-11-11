@@ -1,2 +1,3 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
+jack60612/squid-deb-proxy:latest
