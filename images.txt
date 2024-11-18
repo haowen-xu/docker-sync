@@ -1,2 +1,4 @@
 certbot/dns-cloudflare:latest
 hello-world:latest
+apache/kafka:3.9.0
+provectuslabs/kafka-ui:v0.7.2
