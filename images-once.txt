@@ -41,3 +41,12 @@ sameersbn/apt-cacher-ng:3.3-20200524
 jack60612/squid-deb-proxy:latest
 apache/kafka:3.9.0
 provectuslabs/kafka-ui:v0.7.2
+elasticsearch:8.16.1
+kibana:8.16.1
+logstash:8.16.1
+influxdb:2.7.11
+grafana/k6:0.55.0
+grafana/k6:0.55.0-with-browser
+grafana/grafana:11.4.0
+grafana/loki:3.2.2
+grafana/promtail:3.2.2
