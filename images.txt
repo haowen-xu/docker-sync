@@ -1,3 +1,2 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
-epicwink/proxpi:v1.3.0a0
