@@ -1,3 +1,2 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
-ghcr.io/hauntsaninja/nginx_pypi_cache:latest
