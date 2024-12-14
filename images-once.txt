@@ -50,4 +50,4 @@ grafana/k6:0.55.0-with-browser
 grafana/grafana:11.4.0
 grafana/loki:3.2.2
 grafana/promtail:3.2.2
-epicwink/proxpi:v1.3.0a0
+ghcr.io/hauntsaninja/nginx_pypi_cache:latest
