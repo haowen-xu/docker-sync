@@ -1,3 +1,2 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
-louislam/uptime-kuma:1
