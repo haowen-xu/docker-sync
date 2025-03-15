@@ -51,3 +51,4 @@ grafana/grafana:11.4.0
 grafana/loki:3.2.2
 grafana/promtail:3.2.2
 ghcr.io/hauntsaninja/nginx_pypi_cache:latest
+louislam/uptime-kuma:1
