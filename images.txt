@@ -1,3 +1,2 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
-python:3.12-slim
