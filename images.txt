@@ -1,3 +1,2 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
-joinsunsoft/etcdv3-browser:0.9.0
