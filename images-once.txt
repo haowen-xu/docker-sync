@@ -53,3 +53,5 @@ grafana/promtail:3.2.2
 ghcr.io/hauntsaninja/nginx_pypi_cache:latest
 louislam/uptime-kuma:1
 python:3.12-slim
+bitnami/etcd:3.5.21
+evildecay/etcdkeeper:v0.7.6
