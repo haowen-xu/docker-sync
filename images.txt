@@ -1,3 +1,0 @@
-hello-world:latest
-certbot/dns-cloudflare:latest
-gitlab/gitlab-runner:ubuntu-v17.10.1
