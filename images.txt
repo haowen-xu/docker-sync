@@ -1,2 +1,7 @@
 hello-world:latest
 certbot/dns-cloudflare:latest
+gitlab/gitlab-ce:17.1.8-ce.0
+gitlab/gitlab-ce:17.3.7-ce.0
+gitlab/gitlab-ce:17.5.5-ce.0
+gitlab/gitlab-ce:17.8.7-ce.0
+gitlab/gitlab-ce:17.10.5-ce.0
